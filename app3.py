@@ -47,14 +47,14 @@ st.write(f" {bsc}")
 
 # Membership of Professional Bodies
 st.header("Membership of Professional Bodies:")
-sasm = "(i)	South African Society for Microbiology (SASM; Membership number: SASM2329)"
-nsm = "(ii)	Nigerian Society for Microbiology (NSM; Membership number: E0144)"
-asm = "(iii)	American Society for Microbiology (ASM; Membership number: 200026297)"
-ami = "(iv)	Applied Microbiology International (AMI; Membership number: 200369)"
-fems = "(v)	Federation of European Microbiology Societies (FEMS)"
-ngbn = "(vi)	Nigerian Bioinformatics and Genomics Network (NBGN)"
-bsac = "(vii)	British Society for Antimicrobial Chemotherapy (BSAC; Membership Number: P0001841)"
-iafp = "(viii)	International Association for Food Protection (IAFP; Membership Number: 66287)"
+sasm = "(i)	South African Society for Microbiology"
+nsm = "(ii)	Nigerian Society for Microbiology"
+asm = "(iii)	American Society for Microbiology"
+ami = "(iv)	Applied Microbiology International"
+fems = "(v)	Federation of European Microbiology Societies"
+ngbn = "(vi)	Nigerian Bioinformatics and Genomics Network"
+bsac = "(vii)	British Society for Antimicrobial Chemotherapy"
+iafp = "(viii)	International Association for Food Protection"
 gbd = "(ix)	Global Burden of Disease Collaborator Network, Institute for Health Metrics and Evaluation | University of Washington."
 
 # Display Membership of Professional Bodies

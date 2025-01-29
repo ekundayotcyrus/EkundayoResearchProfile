@@ -13,9 +13,9 @@ st.title("Researcher Profile Page")
 
 # Collect basic information
 name = "Dr. Ekundayo T Cyrus"
-field = "Microbiology (Public Health Microbiology and Microbial Computational Intelligence)"
+field = "Microbiology (Public Health & Environmental Microbiology with focus on Microbial Computational Intelligence)"
 institution = "University of Medical Sciences Ondo, Nigeria"
-postal = "Departments of (a). Microbiology,  (b). Science Laboratory Technology, and  (c). Pharmaceutical Microbiology & Biotechnology, Faculties of Science and Pharmacy, Odosida Campus and Laje Campus, respectively."
+postal = "Departments of (a). Microbiology,  (b). Science Laboratory Technology, and  (c). Pharmaceutical Microbiology & Biotechnology, Faculties of Science and Pharmacy, Odosida Campus Ondo City and Laje Campus Ondo City, respectively."
 Vision = "*My vision is to promote computational intelligence research thrusts within my expertise and create new research opportunities by drawing and fusing strengths from different disciplines into a holistic pan-disciplinary research program. The key priorities are ensuring the highest standards of research ethics, innovating, and pioneering new research initiatives.*"
 objective = "*My research is both pan-disciplinary and applied in nature to addresses real-world societal problems.*"
 # Display basic profile information
